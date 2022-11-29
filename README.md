@@ -6,4 +6,5 @@ The Head of Sales at superstore would like to understand how the store has been 
 
 The repo contains
   jupyter notebook that displays my analysis process, 
+  
   superstoreanalysis.py file which is a dashboard I made for the store using streamlit.
